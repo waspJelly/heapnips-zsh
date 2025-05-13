@@ -1,4 +1,5 @@
 #Author : Heapbytes <Gourav> (https://github.com/heapbytes)
+## The user who forked this repo (waspJelly) does not use mac so this will likely remain unchanged
 
 PROMPT='
 ┌─[%F{blue} %~%f] [%F{green} $(get_ip_address)%f] $(git_prompt_info)
